@@ -1,0 +1,29 @@
+p{
+  color: maroon;
+}
+h1.intro {
+  color:pink;
+  text-align: center;
+  font-weight: bolder;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  font-size: 150%;
+  color:skyblue;
+  text-transform:uppercase;
+}
+html {
+  text-align: center;
+  background-color: salmon
+}
+ul {
+  list-style-type: none;
+}
+img {
+  width: 40%
+}
